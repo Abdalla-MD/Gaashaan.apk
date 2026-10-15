@@ -8,7 +8,9 @@ Official Gaashaan Android APK releases. Gaashaan helps you manage distractions, 
 
 - Version: **1.0.0**
 - Android: **7.0 or newer**
-- APK size: **66.4 MB**
+- APK size: **44.66 MB** (44,662,635 bytes)
+- Build: **2**, updated **15 October 2026**
+- Supported processors: **ARM64 and ARM32** (no x86_64)
 - Package: `com.gaashaan.app`
 
 Release notes and checksums are available on the [Releases page](https://github.com/Abdalla-MD/Gaashaan.apk/releases).
